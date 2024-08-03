@@ -1,15 +1,12 @@
 import streamlit as st
 from streamlit_ace import st_ace
 
-if "layout" not in st.session_state:
-    st.session_state.layout="centered"
 st.set_page_config(
     page_title="Your Code Creation Hub",
     page_icon="icon.png",
     menu_items={
         "About":"Dive into Code Pad, the perfect digital workspace for coding enthusiasts. Effortlessly select your favorite programming language and write your code in a sleek, user-friendly environment. Get creative with your coding ideas and keep your code neat and accessible with Code Pad!"
-    },
-    layout=st.session_state.layout
+    }
 )
 
 tab1,tab2,tab3=st.tabs(["Code Editor","Settings",'Getting Started'])
@@ -95,13 +92,6 @@ with tab2:
 
    font_size = st.number_input("Editor Font Size",value=17)
 
-   wide_mode=st.radio("Use Wide Screen Mode?",["Yes","No"],index=1)
-
-   if(wide_mode=="Yes"):
-      st.session_state.layout="centered"    
-   else:
-      st.session_state.layout="wide"
-
 with tab1:
 
     download_btn=st.empty()
@@ -132,8 +122,9 @@ with tab3:
     st.write("3. **Customize Your Editor:**")
     st.write("   - Adjust the editor theme and font size in the **Settings** tab to match your preferences for a better coding experience.")
     
-    st.write("4. **Explore Themes:**")
-    st.write("   - Select different themes to change the appearance of the editor. This helps reduce eye strain and improves focus.")
+    st.write("4. **Choose Layout Mode:**")
+    st.write("   - Click the three dots in the top-right corner to access settings, where you'll find a checkbox for Wide Mode.")
+    st.write("   - Check the **Wide Mode** box to enable wide layout, or leave it unchecked for the centered layout.")
     
     st.write("5. **Download and Organize:**")
     st.write("   - While you cannot execute code in CodePad, you can still download and organize your code for future reference.")
