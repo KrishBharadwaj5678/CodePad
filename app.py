@@ -1,12 +1,15 @@
 import streamlit as st
 from streamlit_ace import st_ace
 
+if "layout" not in st.session_state:
+    st.session_state.layout="centered"
 st.set_page_config(
     page_title="Your Code Creation Hub",
     page_icon="icon.png",
     menu_items={
         "About":"Dive into Code Pad, the perfect digital workspace for coding enthusiasts. Effortlessly select your favorite programming language and write your code in a sleek, user-friendly environment. Get creative with your coding ideas and keep your code neat and accessible with Code Pad!"
-    }
+    },
+    layout=st.session_state.layout
 )
 
 tab1,tab2,tab3=st.tabs(["Code Editor","Settings",'Getting Started'])
@@ -91,6 +94,13 @@ with tab2:
    theme=themes[theme]
 
    font_size = st.number_input("Editor Font Size",value=17)
+
+   wide_mode=st.radio("Use Wide Screen Mode?",["Yes","No"],index=1)
+
+   if(wide_mode=="Yes"):
+      st.session_state.layout="centered"    
+   else:
+      st.session_state.layout="wide"
 
 with tab1:
 
