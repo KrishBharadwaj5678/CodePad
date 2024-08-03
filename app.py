@@ -109,7 +109,7 @@ with tab1:
     download_btn.download_button("Download File",code,f"code{extension}")
 
 with tab3:
-    st.write("<h3 style='color:#00BFFF;'>Getting Started with CodePad</h3>", unsafe_allow_html=True)
+    st.write("<h3 style='color:#00BFFF;'>Getting Started with Code Pad</h3>", unsafe_allow_html=True)
     
     st.write("**Welcome to Code Pad!** Here’s how you can make the most out of our code editor:")
     
@@ -127,4 +127,4 @@ with tab3:
     st.write("   - Check the **Wide Mode** box to enable wide layout, or leave it unchecked for the centered layout.")
     
     st.write("5. **Download and Organize:**")
-    st.write("   - While you cannot execute code in CodePad, you can still download and organize your code for future reference.")
+    st.write("   - While you cannot execute code in Code Pad, you can still download and organize your code for future reference.")
