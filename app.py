@@ -90,7 +90,7 @@ with tab2:
    theme=st.selectbox("Select Editor Theme",themes.keys(),index=31)
    theme=themes[theme]
 
-   font_size = st.number_input("Editor Font Size",value=17)
+   font_size = st.number_input("Editor Font Size",value=14)
 
 with tab1:
 
