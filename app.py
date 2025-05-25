@@ -80,7 +80,6 @@ with tab2:
     "YAML": ["yaml", ".yaml", "message: 'Hello, World!'"]
   }
 
-
    language=st.selectbox("Select Language",languages,index=46)
 
    code=languages[language][2]
@@ -93,7 +92,7 @@ with tab2:
    font_size = st.number_input("Editor Font Size",value=14)
 
 with tab1:
-
+    
     download_btn=st.empty()
 
     code=st_ace(
@@ -128,3 +127,4 @@ with tab3:
     
     st.write("5. **Download and Organize:**")
     st.write("   - While you cannot execute code in Code Pad, you can still download and organize your code for future reference.")
+    
