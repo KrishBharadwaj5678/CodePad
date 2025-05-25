@@ -1,6 +1,6 @@
 # CodePad 👨‍💻
 
-Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek and user-friendly environment for writing, testing, and sharing your code. ✍️🚀
+Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek, user-friendly environment for writing and downloading your code with ease. ✍️🚀
 
 ---
 
