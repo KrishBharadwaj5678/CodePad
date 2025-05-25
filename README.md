@@ -20,9 +20,11 @@ Welcome to **Code Pad**, the perfect digital workspace for coding enthusiasts! C
 
 ## ⚙️ Tech Stack
 
-* **Python** 🐍: The backbone of Code Pad, chosen for its simplicity and power.
-* **Streamlit** 🚀: A fast, easy-to-use framework for building data apps, perfect for rapid prototyping.
-* **Streamlit Ace** 🖋️: A modern code editor integrated with Streamlit, enhancing your coding experience directly in the app.
+| **Technology**        | **Description**                                        |
+| --------------------- | ------------------------------------------------------ |
+| **Python** 🐍         | Simple and powerful language for building apps.        |
+| **Streamlit** 🚀      | Fast framework for creating data apps and prototypes.  |
+| **Streamlit Ace** 🖋️ | Integrated code editor for a smooth coding experience. |
 
 ---
 
@@ -62,9 +64,3 @@ Welcome to **Code Pad**, the perfect digital workspace for coding enthusiasts! C
 ## 🧑‍🤝‍🧑 Contributing
 
 We welcome contributions! If you'd like to contribute to Code Pad, follow these steps:
-
-1. Fork the repo
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -am 'Add feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Create a new Pull Request
