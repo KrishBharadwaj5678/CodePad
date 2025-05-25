@@ -1,6 +1,6 @@
 # CodePad 👨‍💻
 
-Welcome to **CodePad**, the perfect digital workspace for coding enthusiasts! Code Pad offers a sleek and user-friendly environment for writing, testing, and sharing your code. ✍️🚀
+Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek and user-friendly environment for writing, testing, and sharing your code. ✍️🚀
 
 ---
 
