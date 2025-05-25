@@ -1,6 +1,6 @@
 # CodePad 👨‍💻
 
-Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek, user-friendly environment for writing and downloading your code with ease. ✍️🚀
+Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek, user-friendly environment for writing and downloading your code with ease. ✍️
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek,
 | **Support for Streamlit**       | Build and deploy Python web apps quickly.                    |
 | **Syntax Highlighting**         | Code clarity with color coded syntax.                        |
 | **Auto-complete suggestions**   | Speed up coding with smart suggestions.                      |
-| **Dark & Light Modes**          | Choose your preferred theme for comfortable coding.          |
+| **Custom Themes**               | Choose from a variety of themes to match your coding style.   |
 
 ---
 
@@ -54,6 +54,49 @@ Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek,
 
 ---
 
-## 🧑‍🤝‍🧑 Contributing
+## 🧑‍🤝‍🧑 Contributing to CodePad
 
-We welcome contributions! If you'd like to contribute to Code Pad, follow these steps:
+We welcome contributions to make **CodePad** even better!
+
+### 1. **Fork the Repo** 🍴
+
+### 2. **Clone Your Fork** 🖥️
+
+  ```bash
+  git clone https://github.com/KrishBharadwaj5678/CodePad.git
+  cd CodePad
+  ```
+
+### 3. **Create a New Branch** 🌿
+
+  ```bash
+  git checkout -b your-feature-name
+  ```
+
+### 4. **Make Changes** ✍️
+
+### 5. **Test Your Changes** 🧪
+
+  ```bash
+  streamlit run app.py
+  ```
+
+### 6. **Commit Your Changes** 💬
+
+  ```bash
+  git add .
+  git commit -m "Add feature XYZ or fix issue ABC"
+  ```
+
+### 7. **Push to Your Fork** ⬆️
+
+  ```bash
+  git push origin your-feature-name
+  ```
+
+### 8. **Create a Pull Request** 🔀
+
+* Go to your repository on GitHub and click the **"New Pull Request"** button.
+* Make sure to select the correct base branch and compare it with your feature branch.
+* Write a detailed description of the changes you made.
+* Click **"Create Pull Request"**.
