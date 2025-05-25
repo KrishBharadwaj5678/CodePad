@@ -1,6 +1,6 @@
-# Code Pad 🖥️
+# CodePad 👨‍💻
 
-Welcome to **Code Pad**, the perfect digital workspace for coding enthusiasts! Code Pad offers a sleek and user-friendly environment for writing, testing, and sharing your code.
+Welcome to **CodePad**, the perfect digital workspace for coding enthusiasts! Code Pad offers a sleek and user-friendly environment for writing, testing, and sharing your code. ✍️🚀
 
 ---
 
@@ -36,24 +36,17 @@ Welcome to **Code Pad**, the perfect digital workspace for coding enthusiasts! C
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/code-pad.git
-   cd code-pad
+   git clone https://github.com/KrishBharadwaj5678/CodePad.git
+   cd CodePad
    ```
 
-2. Create a virtual environment (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows use 'venv\Scripts\activate'
-   ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the application:
+3. Run the application:
 
    ```bash
    streamlit run app.py
