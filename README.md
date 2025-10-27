@@ -2,7 +2,7 @@
 
 Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek, user-friendly environment for writing and downloading your code with ease. ✍️
 
-![CodePad]()
+![CodePad](https://github.com/KrishBharadwaj5678/CodePad/raw/main/CodePadDemo.png)
 
 ---
 
@@ -24,9 +24,9 @@ Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek,
 
 | **Technology**        | **Description**                                        |
 | --------------------- | ------------------------------------------------------ |
-| **Python** 🐍         | Simple and powerful language for building apps.        |
-| **Streamlit** 🚀      | Fast framework for creating data apps and prototypes.  |
-| **Streamlit Ace** 🖋️ | Integrated code editor for a smooth coding experience. |
+| 🐍 **Python**          | Simple and powerful language for building apps.        |
+| 🚀 **Streamlit**       | Fast framework for creating data apps and prototypes.  |
+| 🖋️ **Streamlit Ace**  | Integrated code editor for a smooth coding experience. |
 
 ---
 
