@@ -60,45 +60,8 @@ Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek,
 
 We welcome contributions to make **CodePad** even better!
 
-### 1. **Fork the Repo** 🍴
-
-### 2. **Clone Your Fork** 🖥️
-
-  ```bash
-  git clone https://github.com/KrishBharadwaj5678/CodePad.git
-  cd CodePad
-  ```
-
-### 3. **Create a New Branch** 🌿
-
-  ```bash
-  git checkout -b your-feature-name
-  ```
-
-### 4. **Make Changes** ✍️
-
-### 5. **Test Your Changes** 🧪
-
-  ```bash
-  streamlit run app.py
-  ```
-
-### 6. **Commit Your Changes** 💬
-
-  ```bash
-  git add .
-  git commit -m "Add feature XYZ or fix issue ABC"
-  ```
-
-### 7. **Push to Your Fork** ⬆️
-
-  ```bash
-  git push origin your-feature-name
-  ```
-
-### 8. **Create a Pull Request** 🔀
-
-* Go to your repository on GitHub and click the **"New Pull Request"** button.
-* Make sure to select the correct base branch and compare it with your feature branch.
-* Write a detailed description of the changes you made.
-* Click **"Create Pull Request"**.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
