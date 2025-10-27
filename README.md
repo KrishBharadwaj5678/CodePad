@@ -2,19 +2,21 @@
 
 Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek, user-friendly environment for writing and downloading your code with ease. ✍️
 
+![CodePad]()
+
 ---
 
 ## 🚀 Features
 
-| **Feature**                     | **Description**                                              |
-| ------------------------------- | ------------------------------------------------------------ |
-| **Multi language support**      | Switch between programming languages with ease.              |
-| **Sleek UI**                    | A clean, intuitive interface for smooth coding.              |
-| **Real time code editing**      | Instant feedback as you write code.                          |
-| **Support for Streamlit**       | Build and deploy Python web apps quickly.                    |
-| **Syntax Highlighting**         | Code clarity with color coded syntax.                        |
-| **Auto-complete suggestions**   | Speed up coding with smart suggestions.                      |
-| **Custom Themes**               | Choose from a variety of themes to match your coding style.   |
+|  **Feature**                   |  **Description**                                     |
+| -------------------------------- | --------------------------------------------------- |
+| 🌐 **Multi-language Support**    | Switch between programming languages with ease.     |
+| 🎨 **Sleek UI**                  | A clean, intuitive interface for smooth coding.     |
+| ⚡ **Real-time Code Editing**     | Get instant feedback as you write code.             |
+| 🚀 **Support for Streamlit**     | Build and deploy Python web apps quickly.           |
+| 🧩 **Syntax Highlighting**       | Improve readability with color-coded syntax.        |
+| 🤖 **Auto-complete Suggestions** | Speed up coding with smart, predictive suggestions. |
+| 🎭 **Custom Themes**             | Personalize your workspace with beautiful themes.   |
 
 ---
 
