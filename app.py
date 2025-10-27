@@ -9,6 +9,8 @@ st.set_page_config(
     }
 )
 
+st.write("<h2 style='color:#119BE1;'>The Ultimate Playground for Coders</h2>",unsafe_allow_html=True)
+
 tab1,tab2,tab3=st.tabs(["Code Editor","Settings",'Getting Started'])
 
 with tab2:
@@ -128,3 +130,4 @@ with tab3:
     st.write("5. **Download and Organize:**")
     st.write("   - While you cannot execute code in Code Pad, you can still download and organize your code for future reference.")
     
+
