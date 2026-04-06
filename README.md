@@ -4,8 +4,6 @@ Welcome to **CodePad**, your ultimate coding playground! CodePad offers a sleek,
 
 ![CodePad](https://github.com/KrishBharadwaj5678/CodePad/raw/main/CodePadDemo.png)
 
----
-
 ## 🚀 Features
 
 |  **Feature**                   |  **Description**                                     |
