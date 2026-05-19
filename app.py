@@ -123,11 +123,5 @@ with tab3:
     st.write("3. **Customize Your Editor:**")
     st.write("   - Adjust the editor theme and font size in the **Settings** tab to match your preferences for a better coding experience.")
     
-    st.write("4. **Choose Layout Mode:**")
-    st.write("   - Click the three dots in the top-right corner to access settings, where you'll find a checkbox for Wide Mode.")
-    st.write("   - Check the **Wide Mode** box to enable wide layout, or leave it unchecked for the centered layout.")
-    
-    st.write("5. **Download and Organize:**")
+    st.write("4. **Download and Organize:**")
     st.write("   - While you cannot execute code in Code Pad, you can still download and organize your code for future reference.")
-    
-
