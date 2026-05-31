@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 👨‍💻 CodePad 
 
 **CodePad** is a modern and intuitive coding playground built to simplify the development experience. It provides a clean, user-friendly interface for writing, testing, and downloading code efficiently.
